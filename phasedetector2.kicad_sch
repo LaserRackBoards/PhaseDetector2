@@ -3611,7 +3611,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "-5V"
 		(shape input)
 		(at 205.74 99.06 0)
 		(fields_autoplaced yes)
@@ -3655,7 +3655,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "-5V"
 		(shape input)
 		(at 229.87 144.78 0)
 		(fields_autoplaced yes)
